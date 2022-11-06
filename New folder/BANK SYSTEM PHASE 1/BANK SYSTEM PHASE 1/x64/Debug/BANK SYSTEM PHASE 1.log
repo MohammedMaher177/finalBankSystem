@@ -1,0 +1,5 @@
+﻿  AdminManager.cpp
+C:\Users\anaha\OneDrive\Desktop\New folder\BANK SYSTEM PHASE 1\BANK SYSTEM PHASE 1\Validation.h(111,7): warning C4101: 'op': unreferenced local variable
+C:\Users\anaha\OneDrive\Desktop\New folder\BANK SYSTEM PHASE 1\BANK SYSTEM PHASE 1\AdminManager.cpp(40): warning C4715: 'AdminManager::enterSalary': not all control paths return a value
+C:\Users\anaha\OneDrive\Desktop\New folder\BANK SYSTEM PHASE 1\BANK SYSTEM PHASE 1\AdminManager.cpp(191): warning C4717: 'AdminManager::getOption': recursive on all control paths, function will cause runtime stack overflow
+  BANK SYSTEM PHASE 1.vcxproj -> C:\Users\anaha\OneDrive\Desktop\New folder\BANK SYSTEM PHASE 1\x64\Debug\BANK SYSTEM PHASE 1.exe
